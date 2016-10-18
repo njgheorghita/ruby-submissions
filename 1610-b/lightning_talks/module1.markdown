@@ -31,13 +31,13 @@ Kyle Heppenstall: Become a better person in 72 lonely hours
 Josh Cohen: 
   Modern Nuclear Submarines
 
-Laszlo Balogh: Appreciating a car infotainment system
+Laszlo Balogh: Appriciating a car infotainment system
 
 Lucy Conklin: Mars Rover Landing Mechanisms
 
 Marisa Burton:
 
-Molly Brown: Cram more into your brain with spaced repetition
+Molly Brown:
 
 Michael Hill:
 
@@ -45,7 +45,7 @@ Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
 
 Nick Erhardt:
 
-Nick Gheorgita:
+Nick Gheorgita: optimal stopping problems
 
 Phyllis Hugunien:
 
