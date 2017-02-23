@@ -4,7 +4,7 @@
   - Github Repo: 
   
 ## Caroline
-  - Github Repo: https://github.com/CPowell23/module_3_assessment
+  - Github Repo:
   
 ## Amy
   - Github Repo:
@@ -19,13 +19,13 @@
   - Github Repo:
 
 ## Jason
-  - Github Repo: https://github.com/jdconrad89/module_3_assessment
+  - Github Repo:
 
 ## Brett
   - Github Repo:
 
 ## Ethan
-  - Github Repo: https://github.com/ethanbennett/module_3_assessment
+  - Github Repo:
 
 ## Molly
   - Github Repo:
@@ -34,7 +34,7 @@
   - Github Repo:
 
 ## Nick G
-  - Github Repo:
+  - Github Repo: https://github.com/njgheorghita/module_3_assessment
 
 ## Kyle
   - Github Repo: https://github.com/kheppenstall/module_3_assessment
